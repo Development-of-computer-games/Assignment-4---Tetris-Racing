@@ -6,7 +6,7 @@ This is the second part of assignment 4
 
 I chose to make the Tetris Racing game.
 
-I did with a paicture of a road of 4 lines , which from each line every 'x' seconds coming an enemy car in different size , different color and different speed.
+I did it with a picture of a road of 4 lines , which from each line every 'x' seconds coming an enemy car in different size , different color and different speed.
 
 ![1](https://user-images.githubusercontent.com/57447475/140753262-60bf496e-1f73-4883-9cb9-56aec0a14a47.jpeg)
 
