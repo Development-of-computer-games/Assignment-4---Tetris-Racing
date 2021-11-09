@@ -32,7 +32,7 @@ When crushing into an enemy car - the game is over and an according message is d
 
 
 
-[link for the game](https://eladwd.itch.io/tetris-racing)
+# [link for the game](https://eladwd.itch.io/tetris-racing)
 
 
 
